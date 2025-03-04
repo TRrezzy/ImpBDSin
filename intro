@@ -1,0 +1,4 @@
+-Insertar 10 usuarios
+insert into Usuarios (usuario_id, nombre, apellido, departamento)
+values (2, 'David', 'Guzman', 'XL');
+values (1, 'David', 'Guzman', 'XL');
